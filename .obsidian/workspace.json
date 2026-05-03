@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS.md",
+                "file": "content_source/production/meds/meds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODOS"
-            }
-          },
-          {
-            "id": "21cb77d70c80c8e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content_source/production/prolog/prolog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "prolog"
+              "title": "meds"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "21cb77d70c80c8e0",
+  "active": "a4bd71cfd1ec051d",
   "lastOpenFiles": [
+    "content_source/production/meds/google_sheet.png",
+    "content_source/production/meds/2026-04-10_18-00.png",
+    "TODOS.md",
+    "content_source/production/meds/myphoto.jpg",
+    "content_source/production/meds/meds.yml",
+    "content_source/production/meds/meds.md",
+    "content_source/production/meds/prolog.yml",
+    "content_source/production/meds/prolog.md",
+    "content_source/production/meds",
+    "meds",
+    "content_source/production/prolog/prolog.md",
     "content_source/production/microblog/microblog.md",
     "prompt.md",
-    "TODOS.md",
-    "content_source/production/prolog/prolog.md",
     "content_source/production/prolog/prolog.yml",
     "content_source/production/microblog/microblog.yml",
     "content/production/prolog/post.md",
@@ -215,12 +209,8 @@
     "content_source/production/microblog/metadata.yml",
     "content_source/production/prolog",
     "content_source/production/microblog",
-    "content_source/production",
-    "content_source/drafts",
-    "content_source",
     "content/production/microblog/post.md",
     "content/production/microblog/myphoto.jpg",
-    "content/production/microblog/metadata.yml",
     "content/production/prolog copy/post.md",
     "content/production/prolog copy/myphoto.jpg",
     "content/production/prolog/myphoto.jpg"

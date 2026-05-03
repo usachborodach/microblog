@@ -1,4 +1,4 @@
-![[myphoto.jpg|150]]  
+![[content_source/production/prolog/myphoto.jpg|150]]  
 
 Привет, меня зовут Александр Горбов и почему то меня потянуло писать микроблог.
 
